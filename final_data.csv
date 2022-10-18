@@ -1,0 +1,81 @@
+,Name,Address,Rating,types,keyword
+0,Holy Rosary Church,"520 Stevens Street, Indianapolis",4.8,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+1,Roberts Park Methodist Church,"401 North Delaware Street, Indianapolis",4.1,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+2,Saint Mary Catholic Church,"317 North New Jersey Street, Indianapolis",4.7,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+3,Saint John the Evangelist,"126 West Georgia Street, Indianapolis",4.8,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+4,Sacred Heart Catholic Church,"1530 Union Street, Indianapolis",4.7,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+5,Mount Vernon Community Missionary Baptist Church,"709 North Belmont Avenue, Indianapolis",4.4,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+6,Traders Point Christian Church Downtown,"1201 North Delaware Street, Indianapolis",4.6,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+7,Saints Peter and Paul Cathedral,"1347 North Meridian Street, Indianapolis",4.7,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+8,Bethel Tabernacle Apostolic,"2002 Doctor Andrew J Brown Avenue, Indianapolis",4.5,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+9,Friendship Missionary Baptist Church,"1301 North Goodlet Avenue, Indianapolis",4.6,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+10,Redeemer Presbyterian Church,"1505 North Delaware Street, Indianapolis",4.6,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+11,Calvary Tabernacle,"902 Fletcher Avenue, Indianapolis",4.7,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+12,Jubilee Full Gospel Chrurch,"1006 Laurel Street, Indianapolis",4.4,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+13,The Salvation Army - Fountain Square,"1337 Shelby Street, Indianapolis",4.3,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+14,Iglesia Cristiana Westside,"1802 West Washington Street, Indianapolis",4.8,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+15,Church of the Living God,"901 North Belleview Place, Indianapolis",4.8,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+16,St. John the Forerunner Orthodox Church,"1417 Blaine Avenue, Indianapolis",4.1,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church
+0,Indianapolis Zoo,"1200 West Washington Street, Indianapolis",4.5,"['zoo', 'tourist_attraction', 'aquarium', 'point_of_interest', 'establishment']",tourist_attraction
+1,Indiana Statehouse,"200 West Washington Street, Indianapolis",4.6,"['tourist_attraction', 'local_government_office', 'point_of_interest', 'establishment']",tourist_attraction
+2,Indiana Historical Society,"450 West Ohio Street, Indianapolis",4.7,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction
+3,Eiteljorg Museum,"500 West Washington Street, Indianapolis",4.6,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction
+4,The Children's Museum of Indianapolis,"3000 North Meridian Street, Indianapolis",4.7,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction
+5,Indiana War Memorial & Museum,"55 East Michigan Street, Indianapolis",4.7,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",tourist_attraction
+6,Soldiers & Sailors Monument,"1 Monument Circle, Indianapolis",4.7,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction
+7,Eugene and Marilyn Glick Indiana History Center,"450 West Ohio Street, Indianapolis",4.5,"['tourist_attraction', 'library', 'museum', 'point_of_interest', 'establishment']",tourist_attraction
+8,White River Gardens,"1200 West Washington Street, Indianapolis",4.7,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",tourist_attraction
+9,Benjamin Harrison Presidential Site,"1230 North Delaware Street, Indianapolis",4.7,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction
+10,Easley Winery,"205 North College Avenue, Indianapolis",4.7,"['tourist_attraction', 'food', 'point_of_interest', 'establishment']",tourist_attraction
+11,Holy Rosary Church,"520 Stevens Street, Indianapolis",4.8,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",tourist_attraction
+12,Indiana Medical History Museum,"3270 Kirkbride Way, Indianapolis",4.7,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction
+13,Saint Mary Catholic Church,"317 North New Jersey Street, Indianapolis",4.7,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",tourist_attraction
+14,Saint John the Evangelist,"126 West Georgia Street, Indianapolis",4.8,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",tourist_attraction
+15,Indiana State Museum,"650 West Washington Street, Indianapolis",4.6,"['museum', 'tourist_attraction', 'store', 'point_of_interest', 'establishment']",tourist_attraction
+16,Rhythm! Discovery Center,"Claypool Court Building, 110 West Washington Street A, Indianapolis",4.7,"['museum', 'tourist_attraction', 'electronics_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",tourist_attraction
+17,Kurt Vonnegut Museum & Library,"543 Indiana Avenue, Indianapolis",4.8,"['tourist_attraction', 'art_gallery', 'library', 'museum', 'store', 'point_of_interest', 'establishment']",tourist_attraction
+18,Fountain Square Theatre,"1111 Prospect Street, Indianapolis",4.6,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction
+19,Indianapolis Fire Fighters Museum,"748 Massachusetts Avenue, Indianapolis",4.8,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction
+0,Circle Centre Mall,"49 West Maryland Street, Indianapolis",4.1,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+1,West Side Shoppes,"West 10th Street, Indianapolis",4.2,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+2,SHE. EVENT INDY CO - SHEXperience Shoppes,"CIRCLE CENTRE MALL SHEXPERIENCE SHOPPES, 49 West Maryland Street D16A, Indianapolis",4.8,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+3,Sun Garage,"48 West Maryland Street, Indianapolis",4.0,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+4,INDY,"30 South Meridian Street # 650, Indianapolis",4.7,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+5,Michigan & Holmes,"2630 West Michigan Street, Indianapolis",3.7,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+6,Wild Heart Blooms,"1503 East Michigan Street, Indianapolis",5.0,"['shopping_mall', 'point_of_interest', 'establishment']",shopping_mall
+0,City Gallery,"1505 North Delaware Street, Indianapolis",3.7,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+1,Cultural Arts Gallery,"Room #148, 420 University Boulevard, Indianapolis",5.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+2,Nancy Lee Designs,"1125 East Brookside Avenue, Indianapolis",5.0,"['art_gallery', 'jewelry_store', 'store', 'point_of_interest', 'establishment']",art_gallery
+3,Kurt Vonnegut Museum & Library,"543 Indiana Avenue, Indianapolis",4.8,"['library', 'tourist_attraction', 'art_gallery', 'museum', 'store', 'point_of_interest', 'establishment']",art_gallery
+4,LO-FI Lounge,"G. C. Murphy Building, 1043 Virginia Avenue #211, Indianapolis",4.5,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+5,ArtMix,"1505 North Delaware Street, Indianapolis",5.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+6,Snodgrass & Davis Studio Fine Art Restoration,"2123 Boulevard Place, Indianapolis",4.8,"['art_gallery', 'store', 'point_of_interest', 'establishment']",art_gallery
+7,Long-Sharp Gallery,"1 North Illinois Street suite a, Indianapolis",4.9,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+8,Gallery Forty-Two,"42 East Washington Street, Indianapolis",4.8,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+9,Gallery Two,"1332 North Illinois Street, Indianapolis",4.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+10,Sideshow Art and Odditorium,"1125 East Brookside Avenue, Indianapolis",1.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+11,Indy Indie Artist Colony,"26 East 14th Street, Indianapolis",2.9,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+12,Ccic,"East Brookside Avenue, Indianapolis",4.8,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+13,The April Show,"322 North Arsenal Avenue, Indianapolis",3.5,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery
+14,The Great Frame Up,"612 North Delaware Street, Indianapolis",4.8,"['art_gallery', 'store', 'point_of_interest', 'establishment']",art_gallery
+15,CityWay Gallery,"216 East South Street, Indianapolis",3.6,"['art_gallery', 'tourist_attraction', 'point_of_interest', 'establishment']",art_gallery
+0,Shapiro's Delicatessen,"808 South Meridian Street, Indianapolis",4.5,"['bakery', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",restaurant
+1,St. Elmo Steak House,"127 South Illinois Street, Indianapolis",4.7,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+2,The Rathskeller,"401 East Michigan Street, Indianapolis",4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+3,Harry & Izzy's,"153 South Illinois Street, Indianapolis",4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+4,Buca di Beppo Italian Restaurant,"35 North Illinois Street, Indianapolis",4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+5,Weber Grill Restaurant,"10 North Illinois Street, Indianapolis",4.2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+6,Slippery Noodle Inn,"372 South Meridian Street, Indianapolis",4.5,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",restaurant
+7,The Old Spaghetti Factory,"210 South Meridian Street, Indianapolis",4.3,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+8,Skyline Club - Indianapolis,"1 American Square 36th Floor, Indianapolis",4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+9,Mesh - Indianapolis,"725 Massachusetts Avenue, Indianapolis",4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+10,Kilroy's Bar & Grill,"201 South Meridian Street, Indianapolis",4.3,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+11,Fogo de Chão Brazilian Steakhouse,"117 East Washington Street, Indianapolis",4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+12,Café Patachou,"225 West Washington Street, Indianapolis",4.5,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+13,The Oceanaire Seafood Room,"30 South Meridian Street, Indianapolis",4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+14,A&W Restaurant,"49 West Maryland Street, Indianapolis",4.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+15,P.F. Chang's,"49 West Maryland Street Ste 226, Indianapolis",3.9,"['meal_takeaway', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+16,Le Peep Downtown Indy,"301 North Illinois Street, Indianapolis",4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+17,Ruth's Chris Steak House,"45 South Illinois Street, Indianapolis",4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+18,Chatham Tap Mass Ave,"719 Massachusetts Avenue, Indianapolis",4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant
+19,Indianapolis City Market,"222 East Market Street, Indianapolis",4.4,"['florist', 'bicycle_store', 'cafe', 'bar', 'hair_care', 'home_goods_store', 'clothing_store', 'restaurant', 'food', 'store', 'point_of_interest', 'health', 'establishment']",restaurant
